@@ -9,5 +9,5 @@ The '+' button can be used to increase the size of the array.
 Bubble Sort can be visualized by clicking on the Bubble Sort Button.
 I have also used different frequency notes which make the visualization more appealing.
 
-![A glimpse of the website] ( "C:\Users\rajad\Pictures\sorting ss.jpg" "Sorting Visualizer")
+![sorting ss](https://github.com/aditya0402-debug/Bubble-Sorting_Visualizer/assets/119129594/38561148-6be5-4436-8cd9-5b6b9378cbb1)
 
